@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/erikdubois/freebsd-chadwm/blob/main/logo.png">
+ <img src="https://github.com/erikdubois/freebsd-chadwm/blob/main/logo.jpg">
   <br />
    Freebsd Chadwm
 </h1>
